@@ -1,24 +1,20 @@
-# README
+# Hangman
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Hangman is a classic game that we all used to play as children. We revamped the game as a single page web application for users to play and test their skills.
+* Hangman was a pair project during Mod 3 of Flatiron School! My partner is linked at the bottom of this ReadMe.
 
-Things you may want to cover:
+# Features I Worked On
 
-* Ruby version
+* Implemented complex game logic using Ruby to distinguish between correct and incorrect guesses.
+* Designed user interface using Javascript and CSS for styling
+* Stored unique user gameplay and scoring to Ruby on Rails backend.
 
-* System dependencies
+# Technologies
 
-* Configuration
+* Back-end was built using Ruby on Rails.
+* Front-end was built using HTML and Vanilla JavaScript.
+* Used basic CSS for styling.
 
-* Database creation
+Video Walkthrough: https://youtu.be/5OC4FflYQRM
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Other Group Members: [Mack McQuen](github.com/mackmcquen)
